@@ -6,7 +6,7 @@ Stores all constants to avoid magic numbers in the code.
 # Screen settings
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
-FPS = 60
+FPS = 45
 TITLE = "Protocol Overdrive"
 
 # Colors (R, G, B)

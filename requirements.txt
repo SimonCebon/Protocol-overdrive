@@ -1,0 +1,6 @@
+pygame-ce>=2.3.0
+# Dev dependencies
+pytest
+black
+flake8
+mypy

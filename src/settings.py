@@ -18,6 +18,12 @@ COLOR_ENEMY = (255, 50, 50)   # Red
 # Player settings
 PLAYER_SPEED = 300  # Pixels per second
 PLAYER_SIZE = 32
+PLAYER_HP = 100
+PROJECTILE_SPEED = 600
+PROJECTILE_DAMAGE = 15
+ATTACK_COOLDOWN = 0.5 # Seconds
+ATTACK_RANGE = 350 # Pixels
 
 # Charge settings
 CHARGE_CAP = 8.0
+CHARGE_PER_HIT = 0.20 # Float value!
